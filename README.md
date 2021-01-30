@@ -1,5 +1,7 @@
 [![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=realDerekTan)](https://github.com/realDerekTan/github-readme-stats&theme=dark)
 
+> WORK IN PROGRESS
+
 ### Hi there 👋
 
 My name's Derek, a full time student and aspiring full stack web developer! 
