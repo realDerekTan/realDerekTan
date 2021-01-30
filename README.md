@@ -21,6 +21,6 @@ Everything that I know is self-taught, anything can be learned if you set your â
 
 ### ğŸ“« Get In Touch: 
 <!-- Email and Personal Website -->
-Instagram: @djderie
-LinkedIn: linkedin.com/in/dtan
-Blog: medium.com/@realderektan
+- Instagram: @djderie
+- LinkedIn: linkedin.com/in/dtan
+- Blog: medium.com/@realderektan
