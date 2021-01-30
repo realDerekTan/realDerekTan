@@ -1,7 +1,3 @@
-[![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=realDerekTan)](https://github.com/realDerekTan/github-readme-stats&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realDerekTan&layout=compact)](https://github.com/realDerekTan/github-readme-stats)
-
 > WORK IN PROGRESS
 
 ### Hi there 👋
@@ -9,6 +5,9 @@
 My name's Derek, a full time student and aspiring full stack web developer! 
 
 ## About Me
+
+[![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=realDerekTan)](https://github.com/realDerekTan/github-readme-stats&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realDerekTan&layout=compact)](https://github.com/realDerekTan/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
