@@ -1,5 +1,3 @@
-> WORK IN PROGRESS
-
 ### Hi there 👋
 
 My name's Derek, a full time student and aspiring full stack web developer! 
