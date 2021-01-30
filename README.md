@@ -1,4 +1,4 @@
-[![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=realDerekTan)](https://github.com/realDerekTan/github-readme-stats)
+[![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=realDerekTan)](https://github.com/realDerekTan/github-readme-stats&theme=dark)
 
 ### Hi there 👋
 
