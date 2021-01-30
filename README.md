@@ -1,5 +1,7 @@
 [![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=realDerekTan)](https://github.com/realDerekTan/github-readme-stats&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realDerekTan&layout=compact)](https://github.com/realDerekTan/github-readme-stats)
+
 > WORK IN PROGRESS
 
 ### Hi there 👋
