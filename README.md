@@ -4,8 +4,8 @@ My name's Derek, a full time student and aspiring full stack web developer!
 
 ## About Me
 
-[![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=realDerekTan)](https://github.com/realDerekTan/github-readme-stats&theme=dark&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realDerekTan&layout=compact)](https://github.com/realDerekTan/github-readme-stats&count_private=true)
+[![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=realDerekTan&theme=dark&count_private=true)](https://github.com/realDerekTan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realDerekTan&layout=compact&count_private=true)](https://github.com/realDerekTan/github-readme-stats)
 
 Purpose: to create software that solves the problems of others and change the world
 
