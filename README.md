@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name's Derek, a full time student and full stack web developer! 
+My name's Derek, a full time student and passionate, self-taught full stack web developer! 
 
 ## About Me
 
@@ -11,8 +11,6 @@ My name's Derek, a full time student and full stack web developer!
 -->
 
 Purpose: to create software that solves the problems of others and change the world
-
-Everything that I know is self-taught, anything can be learned if you set your ❤️ to it.
 
 ### 🔭 I’m currently working on
 - **Wavecheck** - a social chatting platform where you can make friends and feel safe
