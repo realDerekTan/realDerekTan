@@ -4,7 +4,7 @@ My name's Derek, a full time student and full stack web developer!
 
 ## About Me
 
-[![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=realDerekTan&theme=dark&count_private=true)](https://github.com/realDerekTan/github-readme-stats)
+[![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=realDerekTan&count_private=true)](https://github.com/realDerekTan/github-readme-stats)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realDerekTan&layout=compact&theme=dark&count_private=true)](https://github.com/realDerekTan/github-readme-stats) 
