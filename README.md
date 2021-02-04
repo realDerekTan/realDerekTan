@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name's Derek, a full time student and self-taught full stack web developer! 
+My name's Derek, a student and self-taught web developer! 
 
 ## About Me
 
