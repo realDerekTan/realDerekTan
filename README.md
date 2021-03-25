@@ -13,7 +13,7 @@ My name's Derek, a student and self-taught web developer!
 Purpose: to create software that solves the problems of others and change the world
 
 ### 🔭 I’m currently working on
-- **Wavecheck** - a social chatting platform where you can make friends and feel safe
+- **Wavecheck** - a social chatting platform where you can find and meet new friends
 - **Project Replay** - coming soon
 
 ### 🌱 I’m currently learning
