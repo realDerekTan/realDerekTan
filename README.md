@@ -14,7 +14,6 @@ Purpose: to create software that solves the problems of others and change the wo
 
 ### 🔭 I’m currently working on
 - **Wavecheck** - a social chatting platform where you can find and meet new friends
-- **Project Replay** - coming soon
 
 ### 🌱 I’m currently learning
 - NextJS, Full Stack React
