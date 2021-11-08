@@ -21,6 +21,5 @@ Purpose: to create software that solves the problems of others and change the wo
 
 ### 📫 Get In Touch: 
 <!-- Email and Personal Website -->
-- Instagram: @djderie
 - LinkedIn: linkedin.com/in/dtan
 - Blog: medium.com/@realderektan
