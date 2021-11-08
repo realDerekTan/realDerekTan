@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name's Derek, a student and self-taught web developer! 
+My name's Derek, an undergraduate student currently studying Computer Science and Finance at the University of Waterloo.
 
 ## About Me
 
