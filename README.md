@@ -15,10 +15,6 @@ Purpose: to create software that solves the problems of others and change the wo
 ### 🔭 I’m currently working on
 - **Wavecheck** - a social chatting platform where you can find and meet new friends
 
-### 🌱 I’m currently learning
-- NextJS, Full Stack React
-- Fancy CSS to make everything look nice
-
 ### 📫 Get In Touch: 
 <!-- Email and Personal Website -->
 - LinkedIn: linkedin.com/in/dtan
