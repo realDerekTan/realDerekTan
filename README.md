@@ -13,7 +13,7 @@ My name's Derek, an undergraduate student currently studying Computer Science an
 Purpose: to create software that solves the problems of others and change the world
 
 ### 🔭 I’m currently working on
-- **Wavecheck** - a social chatting platform where you can find and meet new friends
+- **Wavecheck** - a social voice chatting platform to find and meet new friends
 
 ### 📫 Get In Touch: 
 <!-- Email and Personal Website -->
