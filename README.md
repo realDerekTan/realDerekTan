@@ -6,7 +6,7 @@ My name's Derek, an undergraduate student currently studying Computer Science an
 
 ![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=realDerekTan&theme=dark&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realDerekTan&theme=dark&count_private=true)](https://github.com/realDerekTan/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realDerekTan&layout=compact&theme=dark&count_private=true)](https://github.com/realDerekTan/github-readme-stats) 
 
 ### 🔭 I’m currently working on
 - **Wavecheck** - a social voice chatting platform to find and meet new friends
