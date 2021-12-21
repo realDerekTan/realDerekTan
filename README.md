@@ -4,7 +4,7 @@ My name's Derek, an undergraduate student currently studying Computer Science an
 
 ## About Me
 
-![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=realDerekTan&count_private=true)
+![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=realDerekTan&count_private=false&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realDerekTan&layout=compact&count_private=true)](https://github.com/realDerekTan/github-readme-stats) 
 
