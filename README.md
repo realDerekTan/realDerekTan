@@ -2,7 +2,7 @@
 
 My name's Derek, an undergraduate student currently studying Computer Science and Finance at the University of Waterloo.
 
-**Favourite Languages**
+**Favourite Languages / Libraries**
 - JavaScript/TypeScript (Node, Express, React, NextJS)
 - Python (numpy, pandas, matplotlib, yfinance)
 
