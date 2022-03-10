@@ -14,6 +14,6 @@ My name's Derek, an undergraduate student currently studying Computer Science an
 
 ### 📫 Get In Touch: 
 <!-- Email and Personal Website -->
-- LinkedIn: linkedin.com/in/dtan
-- Blog: medium.com/@realderektan
+- LinkedIn: https://linkedin.com/in/dtan
+- Blog: https://medium.com/@realderektan
 - Personal Website: https://derektan.vercel.app/
