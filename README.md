@@ -2,6 +2,10 @@
 
 My name's Derek, an undergraduate student currently studying Computer Science and Finance at the University of Waterloo.
 
+**Favourite Languages / Technologies**
+- JavaScript (Node, React, NextJS, TypeScript)
+- Python (Numpy, Pandas, Matplotlib, yfinance)
+
 ## About Me
 
 ![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=realDerekTan&count_private=true&show_icons=true&border_radius=15)
