@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name's Derek, an undergraduate student currently studying Computer Science and Finance at the University of Waterloo.
+I'm Derek, an undergraduate student currently studying Computer Science and Finance at the University of Waterloo.
 
 **Favourite Languages / Technologies**
 - JavaScript (Node, React, NextJS, TypeScript)
