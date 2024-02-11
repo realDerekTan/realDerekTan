@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Derek, an undergraduate student currently studying Computer Science and Finance at the University of Waterloo.
+I'm Derek, an undergraduate student at the University of Waterloo.
 
 ### 📫 Get In Touch: 
 <div>
